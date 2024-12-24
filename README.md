@@ -1,7 +1,4 @@
 # Flight-Management-System-in-Assembly-Language
-A simple flight management system implemented in assembly language for the 8086 microprocessor. It allows users to view flight schedules, book flights, and cancel bookings through an interactive console-based interface, showcasing fundamental assembly language programming concepts.
-
-
 
 Introduction:
 
@@ -10,6 +7,7 @@ The Flight Management System implemented in assembly language provides a user-fr
 This project is a practical application of assembly language principles and provides a foundation for understanding how low-level programming can be used for real-world applications.
 
 Main Functionalities:
+
 Display Flight Schedule:
 - Users can view a list of available flights with their respective IDs and routes.
 - The system presents a well-formatted flight schedule, including popular routes like:
